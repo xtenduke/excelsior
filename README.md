@@ -21,17 +21,16 @@ What Works
 + Graphics
 + Audio
 + Sleep
-+ Top end CPU frequency
++ CPU turbo & overclock support
 + Networking
 + USB 3
-+ Wifi/Bluetooth (Intel® AC8265 WiFi/BT)
 
 What doesn't work
 -
 + App store
 + iMessage
-+ Low end CPU frequency (power management)
-+ Bluetooth WIFI card 
++ CPU  (power management)
++ Wifi/Bluetooth (Intel® AC8265 WiFi/BT)
 
 What won't be fixed
 -
@@ -45,22 +44,3 @@ What will be fixed eventually
 Disclaimer
 -
 This is in constant development, some things may be configured incorrectly. I accept no responsibility and offer no warranty for this software. 
-
-Credits
--
-[OpenCore on packages Github](https://github.com/acidanthera/OpenCorePkg)
-
-+ The HermitCrabs Lab
-+ All projects providing third-party code (refer to file headers)
-+ al3xtjames
-+ Andrey1970AppleLife
-+ Download-Fritz
-+ Goldfish64
-+ PMHeart
-+ savvamitrofanov
-+ vit9696
-
-
-
-
-
