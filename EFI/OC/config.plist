@@ -71,7 +71,8 @@
 			</dict>
 		</array>
 		<key>Patch</key>
-		<array/>
+		<array>
+		</array>
 		<key>Quirks</key>
 		<dict>
 			<key>FadtEnableReset</key>
@@ -422,7 +423,8 @@
 	<key>Misc</key>
 	<dict>
 		<key>BlessOverride</key>
-		<array/>
+		<array>
+		</array>
 		<key>Boot</key>
 		<dict>
 			<key>ConsoleBehaviourOs</key>
@@ -578,9 +580,9 @@
 			<key>SystemProductName</key>
 			<string>iMacPro1,1</string>
 			<key>SystemSerialNumber</key>
-			<string></string>
+			<string>{REPLACEME_WITH_UNUSED_SERIAL}</string>
 			<key>SystemUUID</key>
-			<string></string>
+			<string>{REPLACEME_WITH_UUIDGEN}</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
